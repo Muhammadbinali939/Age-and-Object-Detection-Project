@@ -1,4 +1,4 @@
-# AI-Based Detection Systems
+# Age and Object Detection Project 
 
 ## Overview
 This repository contains multiple AI-based detection projects leveraging deep learning models. The tasks include age detection, drowsiness detection, nationality classification, emotion recognition, sign language detection, and more. The repository includes Jupyter Notebooks and Python scripts for training, visualization, and real-time detection.
@@ -205,18 +205,4 @@ To install the dependencies, run:
 ```sh
 pip install -r requirements.txt
 ```
-
-## Usage
-Run any Jupyter Notebook or Python script using:
-```sh
-jupyter notebook
-# OR
-python script_name.py
-```
-
-## Contributions
-Contributions are welcome! Feel free to submit issues or pull requests.
-
-## License
-This project is open-source and available under the MIT License.
 
